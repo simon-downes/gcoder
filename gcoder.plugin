@@ -1,0 +1,10 @@
+[Plugin]
+Loader=python
+Module=gcoder
+IAge=3
+Name=gCoder
+Description=Extra functionality for coders
+Authors=Simon Downes <simon@simondownes.cos.uk>
+Copyright=Copyright © 2011 Simon Downes
+Website=http://simondownes.co.uk
+Version=0.0.1

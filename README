@@ -1,0 +1,35 @@
+--------------------------------------------------------------------------------
+gCoder
+--------------------------------------------------------------------------------
+
+A gedit plugin that provides extra functionality for coders.
+
+Current:
+ - _ and = are considered word characters when moving left/right word
+ - comment selection
+ - cut/copy current line if no selection
+ - select current line (Ctrl + Shift + A)
+ - scroll view up/down by one line (Ctrl + Up/Down)
+ - previous document (Ctrl + Shift + Tab)
+ - next document (Ctrl + Tab)
+ - change selection case: upper (Ctrl + U), lower (Ctrl + L), capitalise, sentence, invert
+
+Planned:
+ - pair completion for (){}[]"'
+ - bookmarks
+ - base64 encode/decode
+ - hash selection
+ - lorem ipsum
+ - find/replace with regex and file support
+
+
+--------------------------------------------------------------------------------
+Installation
+--------------------------------------------------------------------------------
+
+Extract files to gedit plugins directory.
+
+Single User : ~/.local/share/gedit/plugins
+
+All Users   : /usr/share/gedit/plugins
+
